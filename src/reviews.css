@@ -1,0 +1,24 @@
+.reviews{
+    margin:2rem;
+}
+.review{
+    padding:1rem;
+}
+p{
+    text-transform: capitalize;    
+}
+
+.reviewTitle{
+    margin-left: 1rem;
+    margin-bottom: -13px;
+}
+.product__rating{
+    display: flex;
+    margin-bottom: -40px;
+    
+}
+
+.showMore{
+    margin-left: 85%;
+}
+
